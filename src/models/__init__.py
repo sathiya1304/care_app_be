@@ -1,0 +1,9 @@
+from src.models.city import City  # noqa: F401
+from src.models.union import Union  # noqa: F401
+from src.models.panchayat import Panchayat  # noqa: F401
+from src.models.childcare_centre import ChildcareCentre  # noqa: F401
+from src.models.cluster import Cluster  # noqa: F401
+from src.models.employee import Employee  # noqa: F401
+from src.models.registration import Registration  # noqa: F401
+from src.models.evaluate import Evaluate  # noqa: F401
+from src.models.evaluation_month import EvaluationMonth  # noqa: F401
